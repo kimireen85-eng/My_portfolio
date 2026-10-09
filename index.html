@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>My protfolio</title>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+    <header>
+        <nav>
+            <a href="#">MY PORTFOLIO</a>
+            <ul>
+                <li><a href="#home">home</a></li>
+                <li><a href="#my-project.html">projects</a></li>
+                <li><a href="#contact">contact</a></li>
+                <li><a href="#about">about me</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="home">
+            <h1>Laureen Muthoni</h1>
+            <p>Aspiring software developer and a student pursuing bachelors of software development in the KCA university.</p>
+            <img src="muthoni.jpeg"  alt="Laureen Muthoni"  width="200">
+        </section>
+        
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Hello, I'm Laureen, a student at the KCA university pursuing bachelors of software development.</p>
+            <p>My interests are coding, web designing and web developing</p>
+        </section>
+        
+        <section id="project">
+            <h2>My projects</h2>
+            <p>I have created and designed a website for online shopping of designer clothes.</p>
+            <a href="my-project.html">my project</a>
+            <br>
+            <p>I have also been working on a project that works like a calculator, using python, that has other unique arithmatic operations such as floordivision,modulus and exponent. For now you can only key in not more than two numbers.</p>
+            <a href="project2.py">project 2</a>
+        </section>
+    </main>
+    <footer>
+        <section id="contact">
+            <h2>contact</h2>
+            <p>you can contact me at:</p>
+            <p> my email <a href="email:2607578@kcau.ac.ke">2607578@kcau.ac.ke</a></p>
+            <a href="https://github.com/kimireen85-eng">https://github.com/kimireen85-eng</a></p>
+        </section>
+    </footer>
+
+     
+    </body>
+</html
